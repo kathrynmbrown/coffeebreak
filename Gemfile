@@ -14,6 +14,7 @@ gem 'devise'
 gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
 gem 'rest-client'
 gem 'aws-sdk'
+gem 'unicorn'
 
 
 group :development do
